@@ -1,12 +1,10 @@
 # LAPORAN PRAKTIKUM JOBSHEET 03
 
-**Topik:** Responsive Design
-
 ---
 
 ## 1.1 Tujuan
 
-1. Mengembangkan tata letak (layout) dan gaya visual lanjutan pada halaman HTML terpusat menggunakan CSS.
+1. Merancang dan mengoptimalkan tata letak serta tampilan visual halaman HTML secara terpusat melalui CSS eksternal.
 
 ---
 
