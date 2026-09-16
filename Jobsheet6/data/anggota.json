@@ -1,0 +1,30 @@
+[
+    {
+        "no_anggota": "A001",
+        "nama": "Rizky Pratama",
+        "alamat": "Lowokwaru",
+        "no_hp": "081234567890",
+        "email": "rizky.pratama@example.com"
+    },
+    {
+        "no_anggota": "A002",
+        "nama": "Nadia Utami",
+        "alamat": "Klojen",
+        "no_hp": "085678901234",
+        "email": "nadia.utami@example.com"
+    },
+    {
+        "no_anggota": "A003",
+        "nama": "Hendra Kurniawan",
+        "alamat": "Sukun",
+        "no_hp": "087890123456",
+        "email": "hendra.kurniawan@example.com"
+    },
+    {
+        "no_anggota": "A004",
+        "nama": "Sari Kusuma",
+        "alamat": "Batu",
+        "no_hp": "083890123457",
+        "email": "sari.kusuma@example.com"
+    }
+]
