@@ -1,4 +1,3 @@
-// === Hamburger menu ===
 function initNavToggle() {
     const toggleBtn = document.getElementById("nav-toggle-btn");
     const nav = document.querySelector("header nav");
@@ -9,22 +8,20 @@ function initNavToggle() {
     });
 }
 
-// === Konfirmasi hapus ===
 function initHapusConfirm() {
-    document.querySelectorAll(".btn-hapus").forEach(function (btn) {
-        btn.addEventListener("click", function () {
-            const row = btn.closest("tr");
-            const nama = row ? row.querySelector("td")?.textContent : "data ini";
-            const yakin = confirm("Yakin ingin menghapus \"" + nama + "\"?")
-            if (yakin && row) {
-                row.remove();
-            }
-        });
+    document.addEventListener("click", function (e) {
+        const btn = e.target.closest(".btn-hapus");
+        if (!btn) return;
+
+        const row = btn.closest("tr");
+        const nama = row ? row.querySelector("td")?.textContent : "data ini";
+        const yakin = confirm("Yakin ingin menghapus \"" + nama + "\"?");
+        if (yakin && row) {
+            row.remove();
+        }
     });
 }
 
-
-// === Filter / pencarian tabel ===
 function initTableFilter() {
     const input = document.getElementById("search-input");
     const table = document.querySelector(".table-responsive table");
@@ -40,7 +37,6 @@ function initTableFilter() {
     });
 }
 
-// === Validassi form ===
 function tampilkanError(input, pesan) {
     hapusError(input);
     const span = document.createElement("span");
