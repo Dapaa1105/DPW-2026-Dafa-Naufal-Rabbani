@@ -18,6 +18,26 @@
         -> [Tandai "Dikembalikan"] -> [Stok buku bertambah 1]
         -> [Kembali ke Dashboard]
 ```
+## Wireframe: Halaman Register
+
+```
++-------------------------------------------+
+|              SIPUS                        |
+|-------------------------------------------|
+|                                           |
+|         [ Daftar Anggota ]                |
+|                                           |
+|   Username         : [______________]     |
+|   Email            : [______________]     |
+|   NIM              : [______________]     |
+|   Password         : [______________]     |
+|   Confirm Password : [______________]     |
+|                                           |
+|          [   Daftar   ]                   |
+|                                           |
+|    Sudah punya akun? Masuk di sini        |
++-------------------------------------------+
+```
 
 ## Wireframe: Halaman Login
 
