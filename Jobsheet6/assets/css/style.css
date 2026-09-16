@@ -67,6 +67,10 @@ section h2 {
     color: #d40404;
 }
 
+main section:nth-of-type(2) h2 {
+    grid-column: 1 / -1;
+}
+
 /* ===== Kartu Statistik ===== */
 main section:nth-of-type(2) {
     display: grid;
