@@ -1,0 +1,62 @@
+[
+    {
+        "judul": "Bumi Manusia",
+        "pengarang": "Pramoedya Ananta Toer",
+        "tahun": 1980,
+        "stok": 5
+    },
+    {
+        "judul": "Laskar Pelangi",
+        "pengarang": "Andrea Hirata",
+        "tahun": 2005,
+        "stok": 8
+    },
+    {
+        "judul": "Cantik Itu Luka",
+        "pengarang": "Eka Kurniawan",
+        "tahun": 2002,
+        "stok": 4
+    },
+    {
+        "judul": "Ronggeng Dukuh Paruk",
+        "pengarang": "Ahmad Tohari",
+        "tahun": 1982,
+        "stok": 2
+    },
+    {
+        "judul": "Pulang",
+        "pengarang": "Leila S. Chudori",
+        "tahun": 2012,
+        "stok": 6
+    },
+    {
+        "judul": "Perahu Kertas",
+        "pengarang": "Dee Lestari",
+        "tahun": 2009,
+        "stok": 3
+    },
+    {
+        "judul": "Bumi",
+        "pengarang": "Tere Liye",
+        "tahun": 2014,
+        "stok": 10
+    },
+    {
+        "judul": "Tenggelamnya Kapal Van der Wijck",
+        "pengarang": "Hamka",
+        "tahun": 1938,
+        "stok": 1
+    },
+    {
+        "judul": "5 cm",
+        "pengarang": "Donny Dhirgantoro",
+        "tahun": 2005,
+        "stok": 0
+    },
+    {
+        "judul": "Negeri 5 Menara",
+        "pengarang": "Ahmad Fuadi",
+        "tahun": 2009,
+        "stok": 7
+    }
+]
